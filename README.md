@@ -5,6 +5,17 @@ I work on [Limework](https://limework.net) as developer for over 3+ years/
 
 currently Updating an fork of [RedisBungee](https://github.com/redismc/redisbungee)
 
+ databases: 
+ * Redis
+ * Postgresql
+  
+ languages:  
+  
+ * Java
+ * C  
+
+
+
 my computer specs: `wont replace it for next 6-8 years hopefully`
 * i9 9900k `was a recommendation by my brother.`
 * 64GB of ddr4 ram `don't ask my why, i know more ram does not mean good proformence but i hate it when my laptop runs of memory, which is stuck with me.` 
