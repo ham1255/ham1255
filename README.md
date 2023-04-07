@@ -5,14 +5,15 @@ I work on [Limework](https://limework.net) as developer for over 3+ years/
 
 currently Updating an fork of [RedisBungee](https://github.com/redismc/redisbungee)
 
- databases: 
+ databases i work with: 
  * Redis
  * Postgresql
+ * ~~Mongodb~~
   
  languages:  
   
  * Java
- * C  
+ * C (don't ask me about anything)
 
 
 
