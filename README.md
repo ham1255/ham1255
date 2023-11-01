@@ -1,9 +1,5 @@
 ### Hi there! 😊
-my name is mohammed or known as `Ham1255`, `xrambad`, `hamody` anything you would like.
-
-Co-Creator of [Limework](https://limework.net)
-
-currently Updating an fork of [RedisBungee](https://github.com/redismc/redisbungee)
+my name is mohammed or known as `Ham1255`, `xrambad`
 
  databases i work with: 
  * Redis
