@@ -7,7 +7,7 @@ my name is mohammed or known as `Ham1255`, `xrambad`
  * ~~Mongodb~~
   
  languages:  
-  
+ * Python 
  * Java
  * C (don't ask me about anything)
 
