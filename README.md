@@ -1,17 +1,7 @@
-### Hi there! 😊
-my name is mohammed or known as `Ham1255`, `xrambad`
+### Hi there!
+my name is mohammed or known as `Ham1255`, `xrambad` and `alaajel9000`
 
- databases i work with: 
- * Redis
- * Postgresql
- * ~~Mongodb~~
-  
- languages:  
- * Python 
- * Java
- * C (don't ask me about anything)
-
-*i use archlinux btw*
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,docker,linux,arch,postgres,valkey,prometheus&perline=10)]()
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ham1255&theme=github_dark)
